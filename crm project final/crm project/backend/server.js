@@ -22,6 +22,7 @@ const app = express();
 
 const allowedOrigins = [
   "https://zencrm-ai-crm-dashboard-ui-boilerpl.vercel.app",
+  "https://zencrm-ai-crm-dashboard-ui-git-ffc6b2-gopika2585-8120s-projects.vercel.app",
   "http://localhost:5173",
 ];
 
